@@ -8,3 +8,4 @@ A React app that generates a random color and rgb values at the click of a butto
 
 
 
+<img width="507" alt="Screen Shot 2023-02-24 at 10 39 00 AM" src="https://user-images.githubusercontent.com/110061849/221263519-523d553c-7857-40ee-b230-f17c27ab0a10.png">
